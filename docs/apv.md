@@ -19,11 +19,11 @@ Hiervoor is bewijs nodig (video of foto). Zonder bewijs kan een straf niet worde
 ### **A.2 - Geldigheid**
 
 1. De straffen zijn onderverdeeld in de volgende categorieën:
-    * **Categorie 1:** Een waarschuwing + 100 uur celstraf
+    * **Categorie 1:** Een waarschuwing
       *(Maximaal 3 waarschuwingen in 1 maand; hierna volgt een verzwaring naar categorie 2.)*
-    * **Categorie 2:** Een ban van 3 dagen + 50 uur celstraf
-    * **Categorie 3:** Een ban van 7 dagen + 50 uur celstraf
-    * **Categorie 4:** Een ban van 30 dagen + 50 uur celstraf
+    * **Categorie 2:** Een ban van 3 dagen
+    * **Categorie 3:** Een ban van 7 dagen
+    * **Categorie 4:** Een ban van 30 dagen
     * **Categorie 5:** Permanente ban
       *(Na 1 maand kan er een verzoek voor een unban ingediend en beoordeeld worden.)*
     * **Categorie 6:** Account wipe
