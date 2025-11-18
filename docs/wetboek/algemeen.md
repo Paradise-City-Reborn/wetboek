@@ -18,13 +18,13 @@ Krachtens artikel 6 van het Europees Verdrag voor de Rechten van de Mens is het 
 Indien de voorkeursadvocaat genoemd niet beschikbaar is, is een vervangend advocaat afdoende om te voldoen aan dit recht.
 
 ### Inbeslagname
-Wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit een strafbaar feit is verkregen, kan deze in beslag worden genomen. 
-De politie mag iedere plaats betreden ter inbeslagname van goederen;
+Wanneer een strafbaar feit is gepleegd met een goed, of wanneer een goed uit een strafbaar feit is verkregen, kan dit goed in beslag worden genomen.
+De politie mag plaatsen betreden voor het doel van inbeslagneming van goederen, conform de daarvoor geldende wettelijke voorwaarden.
 
-- Wederechtelijk verkregen voordeel: Goederen waaruit kan blijken dat zij zijn verkregen door crimineel geld. Bijvoorbeeld auto’s en andere luxe goederen.
-- Waarheidsvinding : Goederen die mogelijk uit een strafbaar feit zijn verworven.
-- Verbeurdverklaren: Goederen worden dan in beslag genomen met als doel het aan te bieden voor verkoop.
-- Onttrekken aan verkeer: Goederen worden dan in beslag genomen en ter vernietiging aangeboden.
+- Wederechtelijk verkregen voordeel: Goederen die onomstotelijk en feitelijk bewezen zijn verworven door een strafbaar feit, of goederen die illegaal zijn verkregen of gebruikt in het kader van crimineel handelen.
+- Waarheidsvinding : Goederen die mogelijk verband houden met een strafbaar feit en die kunnen bijdragen aan het vaststellen van de waarheid binnen het onderzoek.
+- Verbeurdverklaring: Goederen die in beslag worden genomen met het doel deze, na rechterlijke uitspraak, te vervreemden (bijvoorbeeld door verkoop).
+- Onttrekking aan het verkeer: Goederen die in beslag worden genomen en vervolgens ter vernietiging worden aangeboden, omdat zij niet in het maatschappelijk verkeer mogen terugkeren.
 
 Verwerking van de in beslag genomen goederen geschiedt volgens richtlijn van Politie.
 
