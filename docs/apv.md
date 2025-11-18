@@ -16,7 +16,7 @@ Hiervoor is bewijs nodig (video of foto). Zonder bewijs kan een straf niet worde
 3. Wordt er tegen staff gelogen en kan dit met overtuigend bewijs (zoals logbestanden) worden aangetoond, dan kan de straf worden verzwaard.
 4. Tickets die later dan twee weken na het incident worden ingediend, komen niet meer in aanmerking voor een refund.
 
-### **A.2 - Geldigheid**
+### **A.2 - Strafbepaling**
 
 1. De straffen zijn onderverdeeld in de volgende categorieën:
     * **Categorie 1:** Een waarschuwing
