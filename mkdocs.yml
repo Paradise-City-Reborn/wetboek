@@ -1,0 +1,47 @@
+site_name: Wetboek Paradise City
+site_url: https://wetboek.paradisecityrp.nl
+site_description: 'Wet en regelgeving van Paradise City roleplay'
+site_author: 'Paradise City Reborn'
+
+# Copyright
+copyright: © 2025 Paradise City Reborn
+
+# Congiguration
+theme:
+  name: material
+  favicon: assets/logo.png
+  icon: assets/logo.webp
+  palette:
+    scheme: slate
+    primary: blue
+    accent: orange
+  language: nl
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - header.autohide
+    - toc.follow
+    - content.action.edit
+    - content.action.view
+
+markdown_extensions:
+  - admonition
+  - attr_list
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
+nav:
+  - Home: index.md
+  - Algemene Plaatselijke Verordening: apv.md
+  - Streamen: streamen.md
+  - Wetboek: 
+    - Algemeen: wetboek/algemeen.md
+    - Strafrecht: wetboek/strafrecht.md
+    - Wegenverkeerswet: wetboek/wegenverkeerswet.md
+    - Opiumwet: wetboek/opiumwet.md
+    - Wet Wapens en Munitie: wetboek/wwm.md
+  - Kosten:
+    - Advocatuur: kosten/advocatuur.md
+    - Ambulance: kosten/ambulance.md
+  
