@@ -138,3 +138,7 @@ Hiervoor is bewijs nodig (video of foto). Zonder bewijs kan een straf niet worde
 ### **Artikel 23 – Laag niveau van roleplay**
 1. Voorbeelden: onnodig geweld, RDM, bemoeien zonder RP, uitloggen op illegale locatie.
     *  **Sanctie:** Categorie 1 / Categorie 2
+
+### **Artikel 24 – Corruptie**
+1. Corruptie uitoefenen is voor overheidspersoneel verboden. Dit geldt voor; Politie en Ambulance personeel.
+    *  **Sanctie:** Categorie 6
