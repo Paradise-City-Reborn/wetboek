@@ -32,9 +32,8 @@ extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
   - javascripts/tables.js
 nav:
-  - Home:
-    - Introductie: main/index.md
-    - Changelogs: main/changelogs.md
+  - Home: index.md
+  - Changelogs: changelogs.md
   - Algemene Plaatselijke Verordening: apv.md
   - Streamen: streamen.md
   - Wetboek: 
