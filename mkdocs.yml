@@ -32,7 +32,9 @@ extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
   - javascripts/tables.js
 nav:
-  - Home: index.md
+  - Home:
+    - Introductie: main/index.md
+    - Changelogs: main/changelogs.md
   - Algemene Plaatselijke Verordening: apv.md
   - Streamen: streamen.md
   - Wetboek: 
@@ -44,4 +46,3 @@ nav:
   - Kosten:
     - Advocatuur: kosten/advocatuur.md
     - Ambulance: kosten/ambulance.md
-  
