@@ -5,7 +5,7 @@ Heb je een suggestie of aanvulling? Maak dan een ticket aan in onze discord, dan
 
 ## Changelogs 10 December 2025
 ### Algemeen Plaatselijke Verordening
-- Artikel 21 Diefstal van overheidsvoertuigen, -materiaal en politie-uitrusting bijgewerkt
+- Artikel 21 - Diefstal van overheidsvoertuigen, -materiaal en politie-uitrusting bijgewerkt
 - Artikel 24 – Corruptie binnen de Overheidsdiensten bijgewerkt
 
 ### Onderwereld
