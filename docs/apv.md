@@ -127,9 +127,29 @@ Hiervoor is bewijs nodig (video of foto). Zonder bewijs kan een straf niet worde
 2. Ziekenhuispersoneel: toegestaan als ≥3 in dienst.
      *  **Sanctie:** Categorie 1
 
-### **Artikel 21 – Stelen van overheidsvoertuigen of spullen**
-1. Verboden tenzij uitzonderlijk RP-scenario na overleg met staff.
-     *  **Sanctie:** Categorie 2 / Categorie4
+### **Artikel 21 – Diefstal van overheidsvoertuigen, -materiaal en politie-uitrusting**
+Het stelen van overheidsvoertuigen, overheidsmateriaal of politie-uitrusting is verboden, tenzij het onderdeel is van een legitiem RP-scenario waarin:
+* Minimaal drie (3) actieve agenten aanwezig zijn binnen het lopende scenario.
+* De diefstal uitsluitend dient als vluchtmiddel of logisch vervolg binnen het RP-verloop.
+* De actie niet plaatsvindt in een 1-op-1 situatie met één enkele agent.
+* De actie niet bedoeld is als provocatie, misbruik of powergaming.
+
+**Toegestaan onder voorwaarden:**
+* Het stelen van losse politie-items uit een overheidsvoertuig (bijvoorbeeld batons, handboeien, zaklampen, tazers), wanneer dit logisch voortkomt uit een RP-situatie.
+
+> Hierbij geldt dat het voertuig niet mag worden geopend of gekraakt zonder RP-reden.
+
+* Je mag geen wapens (firearms) of hoog-risico items meenemen indien dit de balans van het scenario verstoort.
+
+     **Verboden:**
+
+     * Het looten van neergehaalde, bewusteloze of geboeide agenten, ongeacht het item.
+     * Het stelen van dienstwapens (uit voertuigen of van agenten) tenzij staff expliciet toestemming geeft voor een speciaal scenario of evenement.
+     * Het structureel, herhaald of duidelijk misbruikmatig verzamelen van politie-items.
+
+     *Bij twijfel ligt de interpretatie bij staff, die beoordeelt op RP-waarde, balans en misbruik.*
+
+     *  **Sanctie:** Categorie 2 / Categorie 4 (afhankelijk van ernst, misbruik of herhaling)
 
 ### **Artikel 22 – Combat Logging**
 1. Server verlaten tijdens lopend scenario is verboden.
@@ -139,8 +159,34 @@ Hiervoor is bewijs nodig (video of foto). Zonder bewijs kan een straf niet worde
 1. Voorbeelden: onnodig geweld, RDM, bemoeien zonder RP, uitloggen op illegale locatie.
     *  **Sanctie:** Categorie 1 / Categorie 2
 
-### **Artikel 24 – Corruptie**
-1. Corruptie uitoefenen is voor overheidspersoneel verboden. Dit geldt voor; Politie en Ambulance personeel.
+### **Artikel 24 – Corruptie binnen de Overheidsdiensten**
+Corruptie door overheidspersoneel (Politie & Ambulance) is beperkt toegestaan, mits dit binnen redelijke grenzen blijft en het RP niet schaadt of de organisatie ondermijnt.
+
+**Toegestaan als “lichte corruptie” (laag risico, RP-versterkend):**
+
+* Het doorspelen van kleine hoeveelheden informatie, zoals locaties, namen of waarschuwingen.
+* Het tegen betaling laten ontsnappen van een verdachte met een lichte straf of boete.
+* Het doorverkopen van kleine in beslag genomen items van de verdachte, zoals:
+     * Pistolen
+     * Kleine hoeveelheden drugs
+     * Lichte contrabande
+     * Het oogluikend toestaan van kleine overtredingen tegen vergoeding (bijv. iemand wegsturen i.p.v. bekeuren).
+
+*Deze vormen van corruptie moeten logisch, realistisch en discreet plaatsvinden, zonder het korps of de totale balans te schaden.*
+
+**Strikt verboden als “zware corruptie” (RP-brekend, korps-ondermijnend):**
+
+* Het stelen, verkopen of doorspelen van zware wapens uit kluizen, HQ of voertuigen.
+* Het verhandelen van politie-uitrusting
+* Het systematisch lekken van operationele data (bijv. alle drugslocaties, alle raids, alle undercover-agenten).
+* Het manipuleren of misbruiken van dienstsystemen (MDT, bodycamlogs, boetes, rapporten).
+* Het laten gaan van zware criminelen die gezocht staan voor ernstige misdrijven (moord, zware overvallen, grote heists).
+* Elke actie die het korps structureel in gevaar brengt of het RP rondom politie volledig ondermijnt.
+* Zware corruptie wordt gezien als RP-brekend en leidt direct tot een zware sanctie.
+
+> **Belangrijk:**
+- Corruptie moet verhalend, natuurlijk en subtiel gebeuren. Zodra het spelplezier of de balans in gevaar komt, grijpt staff in.
+
     *  **Sanctie:** Categorie 6
 
 ### **Artikel 25 – Ristricties overheidsdiensten**
