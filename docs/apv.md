@@ -146,4 +146,4 @@ Hiervoor is bewijs nodig (video of foto). Zonder bewijs kan een straf niet worde
 ### **Artikel 25 – Ristricties overheidsdiensten**
 1. Het "main" eiland Los Santos valt onder de dienstverlening van de EMS, LSPD en BCSO.
 2. De naastgelegen "kleine" eilanden vallen buiten de werkgebieden van de benoemde diensten. Hier mág gehandhaafd worden.
-3. Cayo Perico is een gebied waar geen wetten zijn en niet gehandhaafd wordt. Hier is het wetboek ook niet geld.
+3. Cayo Perico is een gebied waar geen wetten zijn en niet gehandhaafd wordt. Hier is het wetboek ook niet geldig.
