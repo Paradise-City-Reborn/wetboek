@@ -12,7 +12,7 @@ Hiervoor is bewijs nodig (video of foto). Zonder bewijs kan een straf niet worde
 
 ### **A.1 - Geldigheid**
 1. Bij wijzigingen in de wetgeving na het moment waarop het feit plaatsvond, gelden altijd de bepalingen die het meest gunstig zijn voor de verdachte.
-2. Staffleden mogen niet deelnemen aan beslissingen over zaken waarbij zijzelf, vrienden of familie betrokken zijn, om eerlijkheid en rechtvaardigheid te waarborgen.
+2. Staffleden mogen niet deelnemen aan beslissingen over zaken waarbij zijzelf betrokken zijn, om eerlijkheid en rechtvaardigheid te waarborgen.
 3. Wordt er tegen staff gelogen en kan dit met overtuigend bewijs (zoals logbestanden) worden aangetoond, dan kan de straf worden verzwaard.
 4. Tickets die later dan twee weken na het incident worden ingediend, komen niet meer in aanmerking voor een refund.
 
