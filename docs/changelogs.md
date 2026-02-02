@@ -22,3 +22,6 @@ Heb je een suggestie of aanvulling? Maak dan een ticket aan in onze discord, dan
 - Strafbepaling aangepast (in stad uur taakstraf verwijderd)
 ### Wetboek -> Algemeen
 - Algemeen bepalingen inbeslagname aangepast
+
+## Changelogs 2 Februari 2026
+### Artikel 26 – Downfase & Ziekenhuis RP toegevoegd

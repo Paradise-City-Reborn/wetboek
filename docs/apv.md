@@ -193,3 +193,32 @@ Corruptie door overheidspersoneel (Politie & Ambulance) is beperkt toegestaan, m
 1. Het "main" eiland Los Santos valt onder de dienstverlening van de EMS, LSPD en BCSO.
 2. De naastgelegen "kleine" eilanden vallen buiten de werkgebieden van de benoemde diensten. Hier mág gehandhaafd worden.
 3. Cayo Perico is een gebied waar geen wetten zijn en niet gehandhaafd wordt. Hier is het wetboek ook niet geldig.
+
+### **Artikel 26 – Downfase & Ziekenhuis RP**
+
+Om roleplay realistisch en eerlijk te houden hanteren wij de volgende regels bij een neergaan (“down gaan”):
+
+---
+
+**1e Downfase – Op je zij (zwaar gewond)**
+Wanneer je character **op zijn zij ligt**, ben je **zwaar gewond en niet meer in staat om actief deel te nemen aan het scenario**.
+
+- Je mag door **EMS of andere spelers** naar het ziekenhuis gebracht worden.
+- Je character **onthoudt wat er is gebeurd**, maar is herstellende.
+- Je mag **niet direct terugkeren naar hetzelfde scenario**.
+- Bij geweld, onderwereld-RP, dreiging of een lopend conflict geldt:  
+  **je blijft weg van het scenario zolang je herstellende bent.**
+
+---
+
+**2e Downfase – Op je rug (doodgebloed / full wipe)**
+Wanneer je character **op zijn rug ligt**, ben je leeggebloed en word je beschouwd als overleden.
+
+- Je moet **respawnen**.
+- Je bent het volledige scenario **vergeten**, inclusief alles wat ertoe heeft geleid.
+  *(Full scenario wipe: geen herinneringen aan betrokken personen, aanleiding of gebeurtenissen.)*
+- Je mag **niet terugkeren** naar de situatie of handelen op basis van informatie van vóór je dood.
+
+---
+
+Deze regels zijn bedoeld om RP eerlijk, realistisch en leuk te houden voor iedereen.**
