@@ -179,7 +179,7 @@ Corruptie door overheidspersoneel (Politie & Ambulance) is beperkt toegestaan, m
 * Het stelen, verkopen of doorspelen van zware wapens uit kluizen, HQ of voertuigen.
 * Het verhandelen van politie-uitrusting
 * Het systematisch lekken van operationele data (bijv. alle drugslocaties, alle raids, alle undercover-agenten).
-* Het manipuleren of misbruiken van dienstsystemen (MDT, bodycamlogs, boetes, rapporten).
+* Het manipuleren of misbruiken van dienstsystemen (MDT, bodycamlogs, boetes, rapporten)
 * Het laten gaan van zware criminelen die gezocht staan voor ernstige misdrijven (moord, zware overvallen, grote heists).
 * Elke actie die het korps structureel in gevaar brengt of het RP rondom politie volledig ondermijnt.
 * Zware corruptie wordt gezien als RP-brekend en leidt direct tot een zware sanctie.
