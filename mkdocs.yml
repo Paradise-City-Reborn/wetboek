@@ -9,11 +9,11 @@ copyright: © 2025 Paradise City Reborn
 # Congiguration
 theme:
   name: material
-  favicon: assets/logo.png
-  icon: assets/logo.webp
+  favicon: assets/favicon.png
+  logo: assets/logo.svg
   palette:
     scheme: slate
-    primary: blue
+    primary: black
     accent: orange
   language: nl
   features:
