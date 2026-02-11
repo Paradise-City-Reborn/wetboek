@@ -25,3 +25,7 @@ Heb je een suggestie of aanvulling? Maak dan een ticket aan in onze discord, dan
 
 ## Changelogs 2 Februari 2026
 ### Artikel 26 – Downfase & Ziekenhuis RP toegevoegd
+
+## Changelogs 11 Februari 2026
+### Gehele APV, Onderwereld, Streamen categorie nagelopen, aangevuld en uitgebreid
+### Overheid categorie toegevoegd
