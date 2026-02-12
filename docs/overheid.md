@@ -61,7 +61,6 @@ Niet toegestaan:
 - Elke vorm van corruptie die financiële of materiële winst oplevert.
 
 Bij twijfel ligt de interpretatie bij staff.
-
      *  **Sanctie:**
           - Overschrijding lichte corruptie: Categorie 3
           - Zware of structurele corruptie: Categorie 5
