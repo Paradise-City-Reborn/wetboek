@@ -38,34 +38,9 @@ Bij georganiseerde onderwereldconflicten:
 ---
 
 ### **Artikel 4 – Corruptie binnen Overheidsdiensten**
+Corruptie door overheidspersoneel (Politie & Ambulance) is **niet** toegestaan.
 
-Corruptie binnen overheidsdiensten is uitsluitend in zeer beperkte vorm toegestaan.
-
-Toegestaan:
-- Het incidenteel doorspelen van beperkte en niet-structurele informatie.
-- Het geven van waarschuwingen over geplande controles.
-- Het subtiel beïnvloeden van kleine situaties zonder materieel of financieel voordeel.
-
-Voorwaarden:
-- Corruptie moet verhalend, logisch en discreet plaatsvinden.
-- Het mag geen structureel voordeel opleveren.
-- Het mag de balans binnen de stad niet verstoren.
-- Het mag niet leiden tot economisch gewin.
-- Leidinggevenden zijn verantwoordelijk voor toezicht op hun medewerkers.
-
-Niet toegestaan:
-- Het verkopen, weggeven of doorverkopen van wapens of in beslag genomen goederen.
-- Het manipuleren van systemen (MDT, bodycams, rapporten, boetes).
-- Het laten gaan van zware criminelen.
-- Het structureel lekken van operationele data.
-- Elke vorm van corruptie die financiële of materiële winst oplevert.
-
-Bij twijfel ligt de interpretatie bij staff.
-
-*  **Sanctie:**
-     - Overschrijding lichte corruptie: Categorie 3
-     - Zware of structurele corruptie: Categorie 5
-     - Ernstige balansverstoring of misbruik: Categorie 6
+*  **Sanctie:** Categorie 6
 
 ---
 

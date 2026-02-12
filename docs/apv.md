@@ -324,32 +324,7 @@ Voorbeelden:
 *  **Sanctie:** Categorie 1 / Categorie 2
 
 ### **Artikel 24 – Corruptie binnen de Overheidsdiensten**
-Corruptie door overheidspersoneel (Politie & Ambulance) is beperkt toegestaan, mits dit binnen redelijke grenzen blijft en het RP niet schaadt of de organisatie ondermijnt.
-
-**Toegestaan als “lichte corruptie” (laag risico, RP-versterkend):**
-
-* Het doorspelen van kleine hoeveelheden informatie, zoals locaties, namen of waarschuwingen.
-* Het tegen betaling laten ontsnappen van een verdachte met een lichte straf of boete.
-* Het doorverkopen van kleine in beslag genomen items van de verdachte, zoals:
-     * Pistolen
-     * Kleine hoeveelheden drugs
-     * Lichte contrabande
-     * Het oogluikend toestaan van kleine overtredingen tegen vergoeding (bijv. iemand wegsturen i.p.v. bekeuren).
-
-*Deze vormen van corruptie moeten logisch, realistisch en discreet plaatsvinden, zonder het korps of de totale balans te schaden.*
-
-**Strikt verboden als “zware corruptie” (RP-brekend, korps-ondermijnend):**
-
-* Het stelen, verkopen of doorspelen van zware wapens uit kluizen, HQ of voertuigen.
-* Het verhandelen van politie-uitrusting
-* Het systematisch lekken van operationele data (bijv. alle drugslocaties, alle raids, alle undercover-agenten).
-* Het manipuleren of misbruiken van dienstsystemen (MDT, bodycamlogs, boetes, rapporten)
-* Het laten gaan van zware criminelen die gezocht staan voor ernstige misdrijven (moord, zware overvallen, grote heists).
-* Elke actie die het korps structureel in gevaar brengt of het RP rondom politie volledig ondermijnt.
-* Zware corruptie wordt gezien als RP-brekend en leidt direct tot een zware sanctie.
-
-> **Belangrijk:**
-- Corruptie moet verhalend, natuurlijk en subtiel gebeuren. Zodra het spelplezier of de balans in gevaar komt, grijpt staff in.
+Corruptie door overheidspersoneel (Politie & Ambulance) is **niet** toegestaan.
 
 *  **Sanctie:** Categorie 6
 
