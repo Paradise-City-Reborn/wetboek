@@ -90,6 +90,7 @@ Het is verboden om:
 Conflicten worden via roleplay of staff afgehandeld.
 
 - niet via OOC-confrontaties.
+
       *  **Sanctie:** Categorie 2
 
 ### **Artikel 2 – Karakter en kleding**
@@ -152,6 +153,7 @@ Staff beoordeelt Fail-RP op:
 - Context
 - Intentie
 - Herhaling.
+
      *  **Sanctie:** Categorie 2
 
 ### **Artikel 9 - Powergaming**
@@ -161,6 +163,7 @@ Voorbeelden:
 - Handelingen uitvoeren die fysiek onmogelijk zijn
 - Mechanische voordelen misbruiken zonder roleplay
 - Situaties creëren waarbij uitkomst vaststaat
+
      *  **Sanctie:** Categorie 2
 
 ### **Artikel 10 – Nieuw Leven Regel (NLR)**
@@ -171,6 +174,7 @@ Dit houdt in:
   die hebben geleid tot het overlijden
 - De character mag niet terugkeren naar de locatie van het incident
 - De character mag geen wraak zoeken of informatie delen
+
      *  **Sanctie:** Categorie 2
 
 ### **Artikel 11 – Exploits, bug-abuse & mechanic-misbruik**
@@ -182,6 +186,7 @@ Spelers zijn verplicht om:
 
 Het bewust misbruiken hiervan kan leiden tot: 
 - zware sancties, ongeacht of er expliciet voordeel is behaald.
+
      *  **Sanctie:** Categorie 2-4
 
 ### **Artikel 12 – No Value of Life (NVL)**
@@ -189,10 +194,12 @@ Van elke speler wordt verwacht dat hij of zij realistisch waarde hecht aan het l
 
 Roekeloos gedrag, herhaald negeren van dreiging of het bewust opzoeken van levensgevaar zonder geldige roleplay-reden kan worden aangemerkt als:
 - **NVOL**
+
     *  **Sanctie:** Categorie 2
 
 ### **Artikel 13 – Hacken, Cheaten of Modden**
 1. Elke vorm van cheats, hacks of modpacks die voordeel geven is verboden.
+
     *  **Sanctie:** Categorie 4
 
 ### **Artikel 14 – Criminele activiteiten**
@@ -207,6 +214,7 @@ Toegestane aantallen:
 - Pacific Bank: max 8
 
 - Het overschrijden van deze limieten wordt gezien als verstoring van serverbalans.
+
      *  **Sanctie:** Categorie 2
 
 ### **Artikel 15 – Stemherkenning**
@@ -238,6 +246,7 @@ Het overnemen van een actief crimineel scenario is alleen toegestaan indien:
    - Er nog geen politie-eenheden betrokken zijn
    - Het logisch voortkomt uit roleplay
    - Het geen third-party inmenging betreft
+
      *  **Sanctie:** Categorie 3
 
 ### **Artikel 18 – Belediging en discriminatie**
@@ -342,6 +351,7 @@ Corruptie door overheidspersoneel (Politie & Ambulance) is beperkt toegestaan, m
 
 > **Belangrijk:**
 - Corruptie moet verhalend, natuurlijk en subtiel gebeuren. Zodra het spelplezier of de balans in gevaar komt, grijpt staff in.
+
     *  **Sanctie:** Categorie 6
 
 ### **Artikel 25 – Werkgebieden Overheidsdiensten**
@@ -419,6 +429,7 @@ Staff behoudt het recht om:
 
 **Opmerking:** Cooldowns gelden per groepering of betrokken partij.
 - Het wisselen van locatie heft een cooldown niet op.
+
     *  **Sanctie:** Categorie 2
 
 ### ** Artikel 28 - Overheidsinteractie**
@@ -459,6 +470,7 @@ Betrokkenheid vereist:
 - Logische aanleiding
 - IC-kennis
 - Realistische motivatie
+
     *  **Sanctie:** Categorie 2
 
 ### **Artikel 32 - Fear RP bij overmacht**
