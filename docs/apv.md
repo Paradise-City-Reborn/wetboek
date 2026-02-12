@@ -91,41 +91,41 @@ Conflicten worden via roleplay of staff afgehandeld.
 
 - niet via OOC-confrontaties.
 
-      *  **Sanctie:** Categorie 2
+*  **Sanctie:** Categorie 2
 
 ### **Artikel 2 – Karakter en kleding**
 - Bij eerste toegang tot de stad dient het karakter correct en realistisch te worden ingesteld.
 - Het gebruik van bugged, onzichtbare of foutief weergegeven kleding (zoals ontbrekende armen, handen of texturen) is niet toegestaan.
 
-     *  **Sanctie:** Categorie 1
+*  **Sanctie:** Categorie 1
 
 ### **Artikel 3 – Server crash / restart**
 - Roleplay dient na een servercrash of restart te worden hervat waar deze is onderbroken, indien mogelijk.
 - Spelers zijn verplicht terug te keren naar het scenario wanneer zij door een crash of restart zijn weggevallen.
 - Het misbruiken van crashes of restarts om roleplay te ontwijken valt onder combat logging.
 
-     *  **Sanctie:** Categorie 1
+*  **Sanctie:** Categorie 1
 
 ### **Artikel 4 – Scenario afronden**
 - Een gestart roleplay-scenario dient altijd op een realistische wijze te worden afgerond.
 - Overtredingen van andere spelers zijn geen reden om het scenario voortijdig te beëindigen.
 - Bij ernstige verstoring kan een speler via /report of ticket staff inschakelen, maar het scenario wordt niet eigenhandig gestopt.
 
-    * **Sanctie:** Categorie 1
+* **Sanctie:** Categorie 1
 
 ### **Artikel 5 – Overvallen / beroven**
 - Het overvallen of beroven van spelers zonder duidelijke roleplay-aanleiding en interactie is verboden.
 - Een slachtoffer dient altijd de mogelijkheid te krijgen om te reageren binnen roleplay.
 - Direct geweld zonder voorafgaande roleplay-interactie kan worden aangemerkt als RDM of failRP.
 
-    *  **Sanctie:** Categorie 2
+*  **Sanctie:** Categorie 2
 
 ### **Artikel 6 – Metagamen**
 Meta-gaming is het gebruiken van OOC-kennis binnen IC-situaties, ongeacht de bron van deze kennis (streams, Discord, clips, voice).
 
 - Het is de verantwoordelijkheid van de speler om IC en OOC informatie strikt gescheiden te houden.
 
-    *  **Sanctie:** Categorie 3
+*  **Sanctie:** Categorie 3
 
 ### **Artikel 7 – Random Death Match (RDM) & Vehicle Death Match (VDM)**
 - Het aanvallen, verwonden of doden van een speler zonder duidelijke en voorafgaande roleplay-interactie is verboden.
@@ -138,7 +138,7 @@ Meta-gaming is het gebruiken van OOC-kennis binnen IC-situaties, ongeacht de bro
 - Het opzettelijk aanrijden van spelers met een voertuig met als doel schade of dood te veroorzaken (VDM) is verboden.
 - Geweld mag niet worden gebruikt als eerste en enige vorm van interactie, tenzij er sprake is van directe en aantoonbare dreiging.
 
-     *  **Sanctie:** Categorie 2 / Categorie 3
+*  **Sanctie:** Categorie 2 / Categorie 3
 
 ### **Artikel 8 – Fail RP**
 Fail-RP is gedrag waarbij een speler bewust of herhaaldelijk handelt op een manier die niet realistisch, geloofwaardig of logisch is binnen de setting van Paradise City Reborn.
@@ -154,7 +154,7 @@ Staff beoordeelt Fail-RP op:
 - Intentie
 - Herhaling.
 
-     *  **Sanctie:** Categorie 2
+*  **Sanctie:** Categorie 2
 
 ### **Artikel 9 - Powergaming**
 Powergaming is het forceren van roleplay door het gebruiken van onrealistische acties, mechanics of scenario’s waardoor andere spelers geen realistische tegenreactie kunnen geven.
@@ -164,7 +164,7 @@ Voorbeelden:
 - Mechanische voordelen misbruiken zonder roleplay
 - Situaties creëren waarbij uitkomst vaststaat
 
-     *  **Sanctie:** Categorie 2
+*  **Sanctie:** Categorie 2
 
 ### **Artikel 10 – Nieuw Leven Regel (NLR)**
 Wanneer een character overlijdt en wordt gerespawned, geldt de Nieuw Leven Regel (NLR).
@@ -175,7 +175,7 @@ Dit houdt in:
 - De character mag niet terugkeren naar de locatie van het incident
 - De character mag geen wraak zoeken of informatie delen
 
-     *  **Sanctie:** Categorie 2
+*  **Sanctie:** Categorie 2
 
 ### **Artikel 11 – Exploits, bug-abuse & mechanic-misbruik**
 Het misbruiken van bugs, glitches, exploits of onbedoelde mechanics is te allen tijde verboden.
@@ -187,7 +187,7 @@ Spelers zijn verplicht om:
 Het bewust misbruiken hiervan kan leiden tot: 
 - zware sancties, ongeacht of er expliciet voordeel is behaald.
 
-     *  **Sanctie:** Categorie 2-4
+*  **Sanctie:** Categorie 2-4
 
 ### **Artikel 12 – No Value of Life (NVL)**
 Van elke speler wordt verwacht dat hij of zij realistisch waarde hecht aan het leven van het eigen personage.
@@ -195,12 +195,12 @@ Van elke speler wordt verwacht dat hij of zij realistisch waarde hecht aan het l
 Roekeloos gedrag, herhaald negeren van dreiging of het bewust opzoeken van levensgevaar zonder geldige roleplay-reden kan worden aangemerkt als:
 - **NVOL**
 
-    *  **Sanctie:** Categorie 2
+*  **Sanctie:** Categorie 2
 
 ### **Artikel 13 – Hacken, Cheaten of Modden**
 1. Elke vorm van cheats, hacks of modpacks die voordeel geven is verboden.
 
-    *  **Sanctie:** Categorie 4
+*  **Sanctie:** Categorie 4
 
 ### **Artikel 14 – Criminele activiteiten**
 - Het maximale aantal deelnemers per scenario geldt per criminele groepering.
@@ -215,7 +215,7 @@ Toegestane aantallen:
 
 - Het overschrijden van deze limieten wordt gezien als verstoring van serverbalans.
 
-     *  **Sanctie:** Categorie 2
+*  **Sanctie:** Categorie 2
 
 ### **Artikel 15 – Stemherkenning**
 Herkenning van personen mag uitsluitend plaatsvinden op basis van:
@@ -232,14 +232,14 @@ Het claimen van herkenning zonder realistische onderbouwing kan worden aangemerk
 - **FailRP**
 - **Meta**
 
-     *  **Sanctie:** Categorie 1 / Categorie 3
+*  **Sanctie:** Categorie 1 / Categorie 3
 
 ### **Artikel 16 – Geforceerde vriendenscenario’s**
 - Het opzetten van overvallen of gijzelingen met bekende spelers met als doel economisch voordeel of mechanisch misbruik is verboden.
 
 - Roleplay mag niet worden misbruikt om geld, items of voordeel kunstmatig te genereren.
 
-     *  **Sanctie:** Categorie 3
+*  **Sanctie:** Categorie 3
 
 ### **Artikel 17 – Overnemen van criminele activiteiten**
 Het overnemen van een actief crimineel scenario is alleen toegestaan indien:
@@ -252,21 +252,20 @@ Het overnemen van een actief crimineel scenario is alleen toegestaan indien:
 ### **Artikel 18 – Belediging en discriminatie**
 - Beledigend, intimiderend of discriminerend taalgebruik gericht op echte kenmerken (zoals ras, afkomst, ziekte, seksualiteit of religie) is verboden.
 - Gebruik van ziektes als scheldwoord valt onder zero tolerance.
-
-    *  **Sanctie:** Categorie 3
+*  **Sanctie:** Categorie 3
 
 ### **Artikel 19 – Real Money Trading (RMT)**
 - Het verkopen, ruilen of aanbieden van in-game geld, items of diensten tegen echt geld of externe voordelen is verboden.
 - Het promoten of faciliteren van dergelijke transacties valt hier eveneens onder.
 
-     *  **Sanctie:** Categorie 4
+*  **Sanctie:** Categorie 4
 
 ### **Artikel 20 – Ontvoering van overheidspersoneel**
 - Politie mag alleen worden ontvoerd indien minimaal 5 agenten actief in dienst zijn.
 - Ziekenhuispersoneel mag alleen worden ontvoerd indien minimaal 3 medewerkers actief in dienst zijn.
 - Het doelbewust controleren van dienststatus om regels te omzeilen is verboden.
 
-     *  **Sanctie:** Categorie 1
+*  **Sanctie:** Categorie 1
 
 ### **Artikel 21 – Diefstal van overheidsvoertuigen, -materiaal en politie-uitrusting**
 Het stelen van overheidsvoertuigen, overheidsmateriaal of politie-uitrusting is verboden, tenzij het onderdeel is van een legitiem RP-scenario waarin:
@@ -290,7 +289,7 @@ Het stelen van overheidsvoertuigen, overheidsmateriaal of politie-uitrusting is 
 
      *Bij twijfel ligt de interpretatie bij staff, die beoordeelt op RP-waarde, balans en misbruik.*
 
-     *  **Sanctie:** Categorie 2 / Categorie 4 (afhankelijk van ernst, misbruik of herhaling)
+*  **Sanctie:** Categorie 2 / Categorie 4 (afhankelijk van ernst, misbruik of herhaling)
 
 ### **Artikel 22 – Combat Logging**
 Combat logging is het bewust verlaten van de server om een roleplay- situatie, dreiging of consequentie te ontlopen.
@@ -309,7 +308,7 @@ Bij een crash, time-out of technische storing geldt:
 
 - *Bij duidelijke opzettelijke ontwijking kan de sanctie worden verhoogd naar Categorie 3.*
 
-     *  **Sanctie:** Categorie 2
+*  **Sanctie:** Categorie 2
 
 ### **Artikel 23 – Laag niveau van roleplay**
 - Het herhaaldelijk vertonen van gedrag dat de kwaliteit van roleplay aantoonbaar schaadt, kan worden aangemerkt als structureel verstorend gedrag.
@@ -322,7 +321,7 @@ Voorbeelden:
 
 - Deze bepaling is bedoeld voor herhaald gedrag en niet voor een enkele kleine overtreding.
 
-    *  **Sanctie:** Categorie 1 / Categorie 2
+*  **Sanctie:** Categorie 1 / Categorie 2
 
 ### **Artikel 24 – Corruptie binnen de Overheidsdiensten**
 Corruptie door overheidspersoneel (Politie & Ambulance) is beperkt toegestaan, mits dit binnen redelijke grenzen blijft en het RP niet schaadt of de organisatie ondermijnt.
@@ -352,7 +351,7 @@ Corruptie door overheidspersoneel (Politie & Ambulance) is beperkt toegestaan, m
 > **Belangrijk:**
 - Corruptie moet verhalend, natuurlijk en subtiel gebeuren. Zodra het spelplezier of de balans in gevaar komt, grijpt staff in.
 
-    *  **Sanctie:** Categorie 6
+*  **Sanctie:** Categorie 6
 
 ### **Artikel 25 – Werkgebieden Overheidsdiensten**
 - Het hoofdeiland (Los Santos) valt onder reguliere handhaving door EMS, LSPD en BCSO.
@@ -398,9 +397,9 @@ Dit betreft een volledige scenario-wipe (New Life Rule).
 - Het misbruiken van downfases om consequenties te ontwijken wordt gezien als verstorend gedrag.
 - Bij twijfel over interpretatie, voortzetting van roleplay of uitzonderingen ligt de eindbeslissing bij staff.
 
-    *  **Sanctie:**
-          - Onjuist handelen binnen downfase: Categorie 1
-          - Opzettelijk misbruik of forceren van wipe: Categorie 2
+*  **Sanctie:**
+     - Onjuist handelen binnen downfase: Categorie 1
+     - Opzettelijk misbruik of forceren van wipe: Categorie 2
 
 ### **Artikel 27 - Scenario-, conflict- & cooldownregels**
 Na intensieve conflictscenario’s geldt een verplichte cooldown-periode.
@@ -430,7 +429,7 @@ Staff behoudt het recht om:
 **Opmerking:** Cooldowns gelden per groepering of betrokken partij.
 - Het wisselen van locatie heft een cooldown niet op.
 
-    *  **Sanctie:** Categorie 2
+*  **Sanctie:** Categorie 2
 
 ### ** Artikel 28 - Overheidsinteractie**
 Van spelers wordt verwacht dat zij respectvol omgaan met overheidsdiensten binnen roleplay.
@@ -442,7 +441,7 @@ Het is verboden om:
 
 - Overheidsinteracties worden beoordeeld op intentie en context.
 
-    *  **Sanctie:** Categorie 2
+*  **Sanctie:** Categorie 2
 
 ### **Artikel 29 - Voice, audio & communicatie**
 Voice-communicatie dient realistisch en passend te zijn binnen roleplay.
@@ -454,14 +453,14 @@ Het is verboden om:
 
 - Staff kan voicegebruik beperken of sanctioneren indien dit roleplay verstoort.
 
-    *  **Sanctie:** Categorie 1
+*  **Sanctie:** Categorie 1
 
 ### **Artikel 30 - Mass-RP / Server Events**
 Bij grootschalige roleplay-situaties (10+ spelers) wordt extra realistisch en gecontroleerd gedrag verwacht.
 
 - Het bewust verstoren van massale roleplay kan leiden tot verzwaarde sancties.
 
-    *  **Sanctie:** Categorie 3
+*  **Sanctie:** Categorie 3
 
 ### **Artikel 31 - Third Party / Random Inmenging**
 Het zonder geldige roleplay-reden mengen in bestaande conflictsituaties (third party) is verboden.
@@ -471,26 +470,26 @@ Betrokkenheid vereist:
 - IC-kennis
 - Realistische motivatie
 
-    *  **Sanctie:** Categorie 2
+*  **Sanctie:** Categorie 2
 
 ### **Artikel 32 - Fear RP bij overmacht**
 Bij duidelijke overmacht (meerdere gewapende personen) wordt verwacht dat een speler hier realistisch op reageert.
 
 - Het negeren van evidente overmacht kan worden aangemerkt als verzwaarde NVOL.
 
-    *  **Sanctie:** Categorie 2-3
+*  **Sanctie:** Categorie 2-3
 
 ### **Artikel 33 - Bodycam / Dashcam misbruik**
 - Bodycam- of dashcam-opnames mogen niet worden misbruikt voor OOC-voordeel of meta-doeleinden.
 
-    *  **Sanctie:** Categorie 3
+*  **Sanctie:** Categorie 3
 
 ### **Artikel 34 - Escalatie bij Verstoring van Serverbelang**
 Indien gedrag structureel schadelijk is voor roleplay, community of serverstabiliteit, behoudt staff het recht direct zwaardere maatregelen te nemen.
 
 - Serverbelang gaat boven individuele situatie.
 
-    *  **Sanctie:** Categorie 4-5
+*  **Sanctie:** Categorie 4-5
 
 ### **Artikel 35 – 18+, Consent & Seksuele Roleplay**
 Seksuele roleplay (ERP) is alleen toegestaan indien:
@@ -503,41 +502,40 @@ Seksuele roleplay (ERP) is alleen toegestaan indien:
 
 - Seksuele roleplay mag nooit worden gebruikt als machtsmiddel, chantage of vernedering.
 
-
-    *  **Sanctie:** Categorie 3-5
+*  **Sanctie:** Categorie 3-5
 
 ### **Artikel 36 – Suicide RP / Zelfmoord forceren**
 Het bewust forceren van eigen overlijden om roleplay, ondervraging of consequenties te ontwijken is verboden.
 
 - Zelfmoord als mechanische uitweg wordt gezien als misbruik van roleplay.
 
-    *  **Sanctie:** Categorie 2-3
+*  **Sanctie:** Categorie 2-3
 
 ### **Artikel 37 – “Superhelden”-gedrag**
 Characters dienen realistisch kwetsbaar te zijn.
 
 - Het structureel vertonen van onrealistisch heldengedrag kan worden aangemerkt als verzwaarde NVOL.
 
-    *  **Sanctie:** Categorie 2
+*  **Sanctie:** Categorie 2
 
 ### **Artikel 38 – Bounty / hit-contract regels**
 - Het plaatsen of uitvoeren van premies (“bounties”) zonder aantoonbare roleplay-opbouw en onderwereld-context kan worden aangemerkt als verstorend gedrag.
 
-    *  **Sanctie:** Categorie 2-3
+*  **Sanctie:** Categorie 2-3
 
 ### **Artikel 39 – In-game intimidatie van nieuwe spelers**
 - Het bewust misbruiken van onervaren spelers voor economisch of roleplay-voordeel is verboden
 
-     *  **Sanctie:** Categorie 2
+*  **Sanctie:** Categorie 2
 
 ### **Artikel 40 - Stream-clip manipulatie**
 - Het bewust knippen of verspreiden van misleidende clips met als doel reputatieschade of staffdruk uit te oefenen kan worden gesanctioneerd.
 
-     *  **Sanctie:** Categorie 3
+*  **Sanctie:** Categorie 3
 
 ### **Artikel 41 – Misbruik van Mechanische Beperkingen**
 Het misbruiken van servermechanics, animaties of technische beperkingen om roleplay-uitkomsten te beïnvloeden is verboden.
 
 - De geest van roleplay weegt zwaarder dan mechanisch voordeel.
 
-     *  **Sanctie:** Categorie 3
+*  **Sanctie:** Categorie 3
