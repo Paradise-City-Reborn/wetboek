@@ -114,11 +114,11 @@
 | **Meerdere veroordelingen** |  30 uur taakstraf | € 0,- | Inbeslagname/afslepen voertuig |
 
 ### Artikel 1.14. - Rijden zonder kentekenplaten
-| *Strafbaar feit* | *Celstraf* | *Boete* |
-|---|---|---|---|
-| **Eerste veroordeling** | 0 maanden | € 2000,- | 24 uur rijontzegging |
-| **Tweede veroordeling** | 12 maanden | € 3500,- | 24 uur rijontzegging |
-| **Meerdere veroordelingen** | 20 maanden | € 5000,- | 24 uur rijontzegging |
+| *Strafbaar feit* | *Straf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 24 uur rijontzegging | € 2000,- |
+| **Tweede veroordeling** | 24 uur rijontzegging | € 3500,- |
+| **Meerdere veroordelingen** | 24 uur rijontzegging | € 5000,- |
 
 ### Artikel 1.15. - Ramen dusdanig donker getint
 | *Strafbaar feit* | *Celstraf* | *Boete* |

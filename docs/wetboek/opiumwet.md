@@ -30,10 +30,10 @@
 
 ### Artikel 3.5. - 501-750 Ingrediënten
 | *Strafbaar feit* | *Celstraf* | *Boete* |
-|---|---||---|
+|---|---|---|
 | **Eerste veroordeling** | 100 maanden | - |
 | **Tweede veroordeling** | 115 maanden | - |
-| **Meerdere veroordelingen** | 130 maanden | - |
+| **Meerdere veroordelingen** | 130 maanden celstraf | - |
 
 ### Artikel 3.6. - 751-1000 Ingrediënten
 | *Strafbaar feit* | *Celstraf* | *Boete* |
