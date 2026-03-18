@@ -193,3 +193,17 @@ Voorbeelden van verstoring:
 - Serverbelang gaat boven individuele groepering of conflict.
 
      *  **Sanctie:** Afhankelijk van situatie (Categorie 2-5)
+
+### **Artikel 16 – Groepsgrootte & Samenstelling**
+
+- Een officiële groepering mag uit maximaal 7 leden bestaan.
+- Alle actieve leden die structureel deelnemen aan onderwereldactiviteiten vallen onder deze limiet.
+
+- Onder leden wordt verstaan:
+     - Officiële members
+     - Structureel samenwerkende spelers
+     - Hangarounds of prospects die actief deelnemen aan activiteiten
+
+- Het opsplitsen van een groepering in meerdere crews of het gebruik van gelieerde groepen om deze limiet te omzeilen is verboden.
+
+     *  **Sanctie:** Categorie 3-4
