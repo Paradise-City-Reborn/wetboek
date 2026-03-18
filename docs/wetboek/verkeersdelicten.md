@@ -6,60 +6,60 @@
 | **Eerste veroordeling** | 0 maanden | € 430,- |
 
 ### Artikel 1.2. - Gevaar / hinder zonder ongeval
-| *Strafbaar feit* | *straf* | *Boete* |
+| *Strafbaar feit* | *Straf* | *Boete* |
 |---|---|---|
 | **Eerste veroordeling** | 24 uur rijontzegging | | € 500,- |
 | **Tweede veroordeling** |  24 uur rijontzegging | | € 1000,- |
 | **Meerdere veroordelingen** |  24 uur rijontzegging | | € 5500,- |
 
 ### Artikel 1.3. - Opzettelijk veroorzaken van ernstig gevaar of hinder
-| *Strafbaar feit* | *Celstraf* | *Boete* |
-|---|---|---|---|
-| **Eerste veroordeling** | 7 maanden | € 600,- | 24-48 uur rijontzegging |
-| **Tweede veroordeling** | 12 maanden | € 1500,- | 48-72 uur rijontzegging |
-| **Meerdere veroordelingen** | 18 maanden | € 3000,- | 48-72 uur rijontzegging |
+| *Strafbaar feit* | *Straf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 24-48 uur rijontzegging | € 600,- |
+| **Tweede veroordeling** | 48-72 uur rijontzegging | € 1500,- |
+| **Meerdere veroordelingen** | 48-72 uur rijontzegging | € 3000,- |
 
 ### Artikel 1.4. - Veroorzaken ongeval (licht letsel)
-| *Strafbaar feit* | *Celstraf* | *Boete* |
-|---|---|---|---|
-| **Eerste veroordeling** | 7 maanden | € 800,- | 24 uur rijontzegging |
-| **Tweede veroordeling** | 12 maanden | € 1500,- | 24 uur rijontzegging |
-| **Meerdere veroordelingen** | 17 maanden | € 2000,- | 24 uur rijontzegging |
+| *Strafbaar feit* | *Straf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 24 uur rijontzegging | € 800,- |
+| **Tweede veroordeling** | 24 uur rijontzegging | € 1500,- |
+| **Meerdere veroordelingen** | 24 uur rijontzegging | € 2000,- |
 
 ### Artikel 1.5. - Veroorzaken ongeval (zwaar letsel)
-| *Strafbaar feit* | *Celstraf* | *Boete* |
-|---|---|---|---|
-| **Eerste veroordeling** | 15 maanden | € 2000,- | 24 uur rijontzegging |
-| **Tweede veroordeling** | 30 maanden | € 4000,- | 24-48 uur rijontzegging |
-| **Meerdere veroordelingen** | 50 maanden | € 6500,- | 24-48 uur rijontzegging |
+| *Strafbaar feit* | *Straf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 24 uur rijontzegging | € 2000,- |
+| **Tweede veroordeling** | 24-48 uur rijontzegging | € 4000,- |
+| **Meerdere veroordelingen** | 24-48 uur rijontzegging | € 6500,- |
 
 ### Artikel 1.6. - Veroorzaken ongeval met dodelijke afloop
-| *Strafbaar feit* | *Celstraf* | *Boete* |
-|---|---|---|---|
-| **Eerste veroordeling** | 20 maanden | € 2500,- | 24 uur rijontzegging |
-| **Tweede veroordeling** | 30 maanden | € 5000,- | 24-48 uur rijontzegging |
-| **Meerdere veroordelingen** | 65 maanden | € 7500,- | 48-72 uur rijontzegging |
+| *Strafbaar feit* | *Straf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 24 uur rijontzegging | € 2500,- |
+| **Tweede veroordeling** | 24-48 uur rijontzegging | € 5000,- |
+| **Meerdere veroordelingen** | 48-72 uur rijontzegging | € 7500,- |
 
 ### Artikel 1.7. - Verlaten plaats ongeval
-| *Strafbaar feit* | *Celstraf* | *Boete* |
-|---|---|---|---|
-| **Eerste veroordeling** | 5 maanden | € 1500,- | 12-24 uur rijontzegging |
-| **Tweede veroordeling** | 13 maanden | € 3000,- | 24-48 uur rijontzegging |
-| **Meerdere veroordelingen** | 22 maanden | € 4500,- | 72 uur rijontzegging |
+| *Strafbaar feit* | *Straf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 12-24 uur rijontzegging | € 1500,- |
+| **Tweede veroordeling** | 24-48 uur rijontzegging | € 3000,- |
+| **Meerdere veroordelingen** | 72 uur rijontzegging | € 4500,- |
 
 ### Artikel 1.8. - Rijden onder invloed
 | *Strafbaar feit* | *Celstraf* | *Boete* |
-|---|---|---|---|
-| **Eerste veroordeling** | 0 maanden | € 2000,- | 24 uur rijontzegging |
-| **Tweede veroordeling** | 12 maanden | € 3500,- | 24 uur rijontzegging |
-| **Meerdere veroordelingen** | 20 maanden | € 5000,- | 24 uur rijontzegging |
+|---|---|---|
+| **Eerste veroordeling** | 24 uur rijontzegging | € 2000,- |
+| **Tweede veroordeling** | 24 uur rijontzegging | € 3500,- |
+| **Meerdere veroordelingen** | 24 uur rijontzegging | € 5000,- |
 
 ### Artikel 1.9. - Rijden zonder bevoegdheid
 | *Strafbaar feit* | *Celstraf* | *Boete* |
-|---|---|---|---|
-| **Eerste veroordeling** | 10 maanden | € 1250,- | 0-12 rijontzegging |
-| **Tweede veroordeling** | 15 maanden | € 2000,- | 24 uur rijontzegging |
-| **Meerdere veroordelingen** | 25 maanden | € 3500,- | 24 uur rijontzegging |
+|---|---|---|
+| **Eerste veroordeling** | 0-12 rijontzegging | € 1250,- |
+| **Tweede veroordeling** | 24 uur rijontzegging | € 2000,- |
+| **Meerdere veroordelingen** | 24 uur rijontzegging | € 3500,- |
 
 ### Artikel 1.10. - Fout parkeren
 | *Strafbaar feit* | *Celstraf* | *Boete* |

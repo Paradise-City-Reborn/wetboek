@@ -26,7 +26,7 @@
 |---|---|---|
 | **Eerste veroordeling** | 95 maanden | - |
 | **Tweede veroordeling** | 105 maanden | - |
-| **Meerdere veroordelingen** | 115 maanden celstraf, | - |
+| **Meerdere veroordelingen** | 115 maanden celstraf | - |
 
 ### Artikel 3.5. - 501-750 Ingrediënten
 | *Strafbaar feit* | *Celstraf* | *Boete* |
