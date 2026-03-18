@@ -6,11 +6,11 @@
 | **Eerste veroordeling** | 0 maanden | € 430,- |
 
 ### Artikel 1.2. - Gevaar / hinder zonder ongeval
-| *Strafbaar feit* | *Celstraf* | *Boete* |
-|---|---|---|---|
-| **Eerste veroordeling** | 0 maanden | € 500,- | 24 uur rijontzegging |
-| **Tweede veroordeling** |  0 maanden | € 1000,- | 24 uur rijontzegging |
-| **Meerdere veroordelingen** |  7 maanden | € 5500,- | 24 uur rijontzegging |
+| *Strafbaar feit* | *straf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 24 uur rijontzegging | | € 500,- |
+| **Tweede veroordeling** |  24 uur rijontzegging | | € 1000,- |
+| **Meerdere veroordelingen** |  24 uur rijontzegging | | € 5500,- |
 
 ### Artikel 1.3. - Opzettelijk veroorzaken van ernstig gevaar of hinder
 | *Strafbaar feit* | *Celstraf* | *Boete* |
