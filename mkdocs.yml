@@ -40,11 +40,11 @@ nav:
   - Streamen: streamen.md
   - Wetboek: 
     - Algemeen: wetboek/algemeen.md
-    - Verkeersdelicten: verkeersdelicten.md
+    - Verkeersdelicten: wetboek/verkeersdelicten.md
     - Strafrecht: wetboek/strafrecht.md
     - Opiumwet: wetboek/opiumwet.md
-    - Vermogensdelicten: vermogensdelicten.md
-    - Geweldsdelicten: geweldsdelicten.md
+    - Vermogensdelicten: wetboek/vermogensdelicten.md
+    - Geweldsdelicten: wetboek/geweldsdelicten.md
     - Wet Wapens en Munitie: wetboek/wwm.md
   - Kosten:
     - Advocatuur: kosten/advocatuur.md
