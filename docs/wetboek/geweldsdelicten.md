@@ -1,0 +1,91 @@
+# 📕 Wetboek van Strafrecht - Geweldsdelicten
+
+---
+
+### Artikel 5.1. - Wederspannigheid / verzet
+
+| *Strafbaar feit* | *Celstraf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 7 maanden | € 250,- |
+| **Tweede veroordeling** | 20 maanden | € 500,- |
+| **Meerdere veroordelingen** | 60 maanden | € 750,- |
+
+### Artikel 5.2. - Gijzeling
+
+| *Strafbaar feit* | *Celstraf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 45 maanden | € 0,- |
+| **Tweede veroordeling** | 120 maanden | € 3000,- |
+| **Meerdere veroordelingen** | 300 maanden | € 4500,- |
+
+### Artikel 5.3. - Bedreiging
+
+| *Strafbaar feit* | *Celstraf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 10 maanden | € 900,- |
+| **Tweede veroordeling** | 26 maanden | € 1200,- |
+| **Meerdere veroordelingen** | 80 maanden | € 2000,- |
+
+### Artikel 5.4. - Doodslag
+
+| *Strafbaar feit* | *Celstraf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 75 maanden | € 6000,- |
+| **Tweede veroordeling** | 140 maanden | € 8000,- |
+| **Meerdere veroordelingen** | 360 maanden | € 10000,- |
+
+### Artikel 5.5. - Moord
+
+| *Strafbaar feit* | *Celstraf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 112 maanden | € 7500,- |
+| **Tweede veroordeling** | 180 maanden | € 9000,- |
+| **Meerdere veroordelingen** | 460 maanden | € 12500,- |
+
+### Artikel 5.6. - Eenvoudige Mishandeling
+
+| *Strafbaar feit* | *Celstraf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 18 maanden | € 1250,- |
+| **Tweede veroordeling** | 40 maanden | € 2500,- |
+| **Meerdere veroordelingen** | 160 maanden | € 3500,- |
+
+### Artikel 5.7. - Zware Mishandeling
+
+| *Strafbaar feit* | *Celstraf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 25 maanden | € 2500,- |
+| **Tweede veroordeling** | 50 maanden | € 3000,- |
+| **Meerdere veroordelingen** | 160 maanden | € 5000,- |
+
+### Artikel 5.8. - Vernieling
+
+| *Strafbaar feit* | *Celstraf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 7 maanden | € 1250,- |
+| **Tweede veroordeling** | 20 maanden | € 2500,- |
+| **Meerdere veroordelingen** | 80 maanden | € 4000,- |
+
+### Artikel 5.9. - Brandstichting en ontploffingen
+
+| *Strafbaar feit* | *Celstraf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 30 maanden | € 2750,- |
+| **Tweede veroordeling** | 80 maanden | € 4500,- |
+| **Meerdere veroordelingen** | 240 maanden | € 6500,- |
+
+### Artikel 5.10. - Terroristisch misdrijf
+
+| *Strafbaar feit* | *Celstraf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 150 maanden | € 9000,- |
+| **Tweede veroordeling** | 240 maanden | € 12500,- |
+| **Meerdere veroordelingen** | 600 maanden | € 15000,- |
+
+### Artikel 5.11. - Dood door schuld
+
+| *Strafbaar feit* | *Celstraf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 37 maanden | € 3500,- |
+| **Tweede veroordeling** | 100 maanden | € 5000,- |
+| **Meerdere veroordelingen** | 280 maanden | € 7500,- |

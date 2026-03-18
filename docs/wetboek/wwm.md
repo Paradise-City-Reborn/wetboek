@@ -1,45 +1,81 @@
-# Wet Wapens en Munitie
+# 📕 Wetboek van Strafrecht - Grote Overtredingen
 
-### Artikel 4.1. - Nepwapens
-1. Strafbaar is een persoon die een holster draagt met daarin een nepwapen of replica die, van dichtbij of op enige afstand, niet gemakkelijk van echt te onderscheiden is.
+### Artikel 6.1. - Tasers
 
-| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+| *Strafbaar feit* | *Celstraf* | *Boete* |
 |---|---|---|
-|  **Nepwapens** | 0 maanden  | € 1000,-  |
+| **Eerste veroordeling** | 6 maanden celstraf | €2000 geldboete |
+| **Tweede veroordeling** | 12 maanden celstraf | €4000 geldboete |
+| **Meerdere veroordelingen** | 54 maanden celstraf | €10000 geldboete |
 
-### Artikel 4.2. - Steek- en slagwapens
-1. Strafbaar is een persoon die een steek of slagwapen voorhanden heeft, bij zich draagt, of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoermiddel, waarvan redelijkerwijs kan worden aangenomen dat deze bestemd is om letsel toe te brengen.
+### Artikel 6.2. - Vuurwapens en Explosieven Cat 1.
 
-| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+| *Strafbaar feit* | *Celstraf* | *Boete* |
 |---|---|---|
-|  **Steek- en slagwapens** | 0 maanden  | € 1500,-  |
+| **Eerste veroordeling** | 24 maanden celstraf | €7500 geldboete |
+| **Tweede veroordeling** | 60 maanden celstraf | €15000 geldboete |
+| **Meerdere veroordelingen** | 96 maanden celstraf | €20000 geldboete |
 
-### Artikel 4.3. - Stroomstootwapens
-1. Strafbaar is een persoon die een stroomstootwapen voorhanden heeft, bij zich draagt, opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoermiddel.
+### Artikel 6.3. - Vuurwapens en Explosieven Cat 2.
 
-| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+| *Strafbaar feit* | *Celstraf* | *Boete* |
 |---|---|---|
-|  **Stroomstootwapen** | 10 maanden  | € 2000,-  |
+| **Eerste veroordeling** | 48 maanden celstraf | €15000 geldboete |
+| **Tweede veroordeling** | 80 maanden celstraf | €20000 geldboete |
+| **Meerdere veroordelingen** | 120 maanden celstraf | €25000 geldboete |
 
-### Artikel 4.4. - Vuurwapens en Explosieven
-1. Strafbaar is een persoon die een vuurwapen voorhanden heeft, bij zich draagt, of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoermiddel.
-2. Onderscheid wordt gemaakt tussen:
+### Artikel 6.4. - Steek- en slagwapens
 
-- CAT 1 Kleine vuurwapens (pistolen, revolvers, e.d.).
-- CAT 2 Automatische vuurwapens, jachtgeweren, shotguns, explosieven, granaten, thermiet
-
-| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+| *Strafbaar feit* | *Celstraf* | *Boete* |
 |---|---|---|
-|  **CAT 1 Vuurwapen** | 30 maanden  | € 7500,-  |
-|  **CAT 2 Vuurwapen** | 60 maanden  | € 15.000,-  |
+| **Eerste veroordeling** | 3 maanden celstraf | €1500 geldboete |
+| **Tweede veroordeling** | 6 maanden celstraf | €4000 geldboete |
+| **Meerdere veroordelingen** | 12 maanden celstraf | €6000 geldboete |
 
-### Artikel 4.5. - Wapenhandel
-1. Strafbaar is een persoon die wapens, aangemerkt als niet legaal, invoert, uitvoert, of doorvoert zonder hiervoor een geldig consent te hebben.
-2. Indien een ophanden zijnde wapen transactie aantoonbaar gepleegd zou gaan worden, of dreigde te gaan worden, doch niet is afgerond, wordt dit aangemerkt als poging tot wapenhandel.
+### Artikel 6.5. - Nepwapens, holsters en replica's
 
-| *Strafbaar feit*  | *Celstraf*  | *Boete*  |
+| *Strafbaar feit* | *Celstraf* | *Boete* |
 |---|---|---|
-|  **Poging wapenhandel CAT 1** | 15 maanden  | € 5000,-  |
-|  **Wapenhandel CAT 1** | 30 maanden  | € 10.000,-  |
-|  **Poging wapenhandel CAT 2** | 30 maanden  | € 7500,-  |
-|  **Wapenhandel CAT 2** | 60 maanden  | € 20.000,-  |
+| **Eerste veroordeling** | 3 maanden celstraf | €1000 geldboete |
+| **Tweede veroordeling** | 6 maanden celstraf | €4000 geldboete |
+| **Meerdere veroordelingen** | 12 maanden celstraf | €5000 geldboete |
+
+### Artikel 6.6. - Wapenhandel
+
+| *Strafbaar feit* | *Celstraf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 36 maanden celstraf | €20000 geldboete |
+| **Tweede veroordeling** | 48 maanden celstraf | €30000 geldboete |
+| **Meerdere veroordelingen** | 60 maanden celstraf | €40000 geldboete |
+
+### Artikel 6.7. - Munitiebezit Cat 1.
+
+| *Strafbaar feit* | *Celstraf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 6 maanden celstraf | €1500 geldboete |
+| **Tweede veroordeling** | 12 maanden celstraf | €2000 geldboete |
+| **Meerdere veroordelingen** | 18 maanden celstraf | €3000 geldboete |
+
+### Artikel 6.8. - Munitiebezit Cat 2.
+
+| *Strafbaar feit* | *Celstraf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 12 maanden celstraf | €1500 geldboete |
+| **Tweede veroordeling** | 18 maanden celstraf | €5000 geldboete |
+| **Meerdere veroordelingen** | 24 maanden celstraf | €6500 geldboete |
+
+### Artikel 6.9. - Vuurwerkbezit
+
+| *Strafbaar feit* | *Celstraf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 2 maanden celstraf | €750 geldboete |
+| **Tweede veroordeling** | 6 maanden celstraf | €2500 geldboete |
+| **Meerdere veroordelingen** | 12 maanden celstraf | €3500 geldboete |
+
+### Artikel 6.10. - Vuurwerkhandel
+
+| *Strafbaar feit* | *Celstraf* | *Boete* |
+|---|---|---|
+| **Eerste veroordeling** | 6 maanden celstraf | €2500 geldboete |
+| **Tweede veroordeling** | 15 maanden celstraf | €7500 geldboete |
+| **Meerdere veroordelingen** | 24 maanden celstraf | €10000 geldboete |
